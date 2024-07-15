@@ -1,0 +1,8 @@
+
+**Database Name: expenseman**
+
+**Developed by Ashmini Mehra**
+
+**Tested with PHP v5**
+
+
